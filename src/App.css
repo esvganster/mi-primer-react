@@ -1,0 +1,16 @@
+.pagina {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.tarjetas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+h2 {
+  margin-top: 30px;
+  font-size: 20px;
+}

@@ -1,0 +1,11 @@
+.lista {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  padding: 0;
+  list-style: none;
+}
+
+.lista li {
+  max-width: 100%;
+}
